@@ -33,6 +33,6 @@
             </div><!-- /.blog-post -->
 
             <?php include 'sidebar.php';?> 
-<?php include 'footer.php';?>
+            <?php include 'footer.php';?>
 
             
